@@ -1,1372 +1,1372 @@
 # 
 # Translators:
-# Vyacheslav Frolov <frolov78@gmail.com>, 2015
+# Guillaume Chertier <gchertier.ext@orange.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: STF\n"
-"PO-Revision-Date: 2016-03-30 08:24+0000\n"
-"Last-Translator: takeshimiya <takeshimiya@gmail.com>\n"
-"Language-Team: Russian (Russia) (http://www.transifex.com/openstf/stf/language/ru_RU/)\n"
+"PO-Revision-Date: 2016-04-04 09:12+0000\n"
+"Last-Translator: Guillaume Chertier <gchertier.ext@orange.com>\n"
+"Language-Team: French (http://www.transifex.com/openstf/stf/language/fr/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ru_RU\n"
-"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #: app/components/stf/device/device-info-filter/index.js:117
 #: app/components/stf/device/device-info-filter/index.js:52
 #: app/components/stf/device/device-info-filter/index.js:61
 #: app/components/stf/device/device-info-filter/index.js:71
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: app/components/stf/common-ui/modals/version-update/version-update.html:1
 msgid "A new version of STF is available"
-msgstr "Доступна новая версия STF"
+msgstr "Une nouvelle version de STF est disponible"
 
 #: app/components/stf/install/install-error-filter.js:26
 msgid "A package is already installed with the same name."
-msgstr "Пакет уже установлен с таким же названием."
+msgstr "Un paquet est déjà installé avec le même nom"
 
 #: app/components/stf/install/install-error-filter.js:30
 msgid ""
 "A previously installed package of the same name has a different signature "
 "than the new package (and the old package's data was not removed)."
-msgstr "Ранее установленный пакет с таким же названием имеет отличающуюся цифровую подпись (также не удалены данные старого пакета)"
+msgstr "Un paquet précédemment installée du même nom a une signature différente de celle du nouveau paquet (et les données de l'ancien paquet n'a pas été supprimée)."
 
 #: app/components/stf/install/install-error-filter.js:50
 msgid "A secure container mount point couldn't be accessed on external media."
-msgstr ""
+msgstr "Un conteneur sécurisé équipé ne peut pas être accessible sur un support externe."
 
 #: app/control-panes/info/info.html:1
 #: app/device-list/column/device-column-service.js:178
 msgid "ABI"
-msgstr ""
+msgstr "IBP"
 
 #: app/components/stf/device/device-info-filter/index.js:58
 msgid "AC"
-msgstr ""
+msgstr "AC"
 
 #: app/settings/keys/access-tokens/access-tokens.html:1
 msgid "Access Tokens"
-msgstr ""
+msgstr "Jetons d'Accès"
 
 #: app/control-panes/automation/store-account/store-account.html:1
 msgid "Account"
-msgstr "Учетная запись"
+msgstr "Compte"
 
 #: app/control-panes/dashboard/install/activities/activities.html:1
 msgid "Action"
-msgstr "Действие"
+msgstr "Action"
 
 #: app/control-panes/automation/store-account/store-account.html:1
 msgid "Actions"
-msgstr "Действия"
+msgstr "Actions"
 
 #: app/control-panes/dashboard/install/activities/activities.html:1
 msgid "Activity"
-msgstr ""
+msgstr "Activité"
 
 #: app/settings/keys/adb-keys/adb-keys.html:1
 msgid "ADB Keys"
-msgstr "Ключи ADB"
+msgstr "Clefs ADB"
 
 #: app/control-panes/resources/resources.html:1
 msgid "Add"
-msgstr "Добавить"
+msgstr "Ajouter"
 
 #: app/components/stf/keys/add-adb-key/add-adb-key.html:1
 msgid "Add ADB Key"
-msgstr "Добавить ADB ключ"
+msgstr "Ajouter une Clef ADB"
 
 #: app/components/stf/common-ui/modals/add-adb-key-modal/add-adb-key-modal.html:1
 #: app/components/stf/keys/add-adb-key/add-adb-key.html:1
 msgid "Add Key"
-msgstr "Добавить ключ"
+msgstr "Ajouter une Clef"
 
 #: app/components/stf/common-ui/modals/add-adb-key-modal/add-adb-key-modal.html:1
 msgid "Add the following ADB Key to STF?"
-msgstr "Добавить ADB ключ к STF?"
+msgstr "Ajouter la Clef ADB suivante dans STF?"
 
 #: app/layout/layout-controller.js:7
 msgid "Admin mode has been disabled."
-msgstr "Режим администратора отключен."
+msgstr "Le Mode Administrateur a été désactivé"
 
 #: app/layout/layout-controller.js:6
 msgid "Admin mode has been enabled."
-msgstr "Режим администратора включен."
+msgstr "Le Mode Administrateur a été activé"
 
 #: app/control-panes/control-panes-controller.js:20
 msgid "Advanced"
-msgstr "Расширенный"
+msgstr "Avancé"
 
 #: app/control-panes/advanced/input/input.html:1
 msgid "Advanced Input"
-msgstr "Расширенный ввод"
+msgstr "Entrée Avancé"
 
 #: app/control-panes/info/info.html:1
 msgid "Airplane Mode"
-msgstr "Режим В самолёте"
+msgstr "Mode Avion"
 
 #: app/control-panes/automation/store-account/store-account.html:1
 #: app/control-panes/dashboard/apps/apps.html:1
 msgid "App Store"
-msgstr "Play Маркет"
+msgstr "App Store"
 
 #: app/control-panes/dashboard/install/install.html:1
 msgid "App Upload"
-msgstr "Загрузка приложения"
+msgstr "Téléverser une Application"
 
 #: app/control-panes/dashboard/apps/apps.html:1
 msgid "Apps"
-msgstr "Приложения"
+msgstr "Applications"
 
 #: app/control-panes/advanced/maintenance/maintenance-controller.js:10
 msgid "Are you sure you want to reboot this device?"
-msgstr "Вы уверены, что хотите перезагрузить устройство?"
+msgstr "Est vous sûr de vouloir redémarrer ce terminal?"
 
 #: app/control-panes/control-panes-controller.js:14
 msgid "Automation"
-msgstr "Автоматизация"
+msgstr "Automatisation"
 
 #: app/components/stf/device/device-info-filter/index.js:28
 msgid "Available"
-msgstr "Доступен"
+msgstr "Disponible"
 
 #: app/components/stf/device-context-menu/device-context-menu.html:1
 #: app/control-panes/device-control/device-control.html:1
 msgid "Back"
-msgstr "Назад"
+msgstr "Précédent"
 
 #: app/control-panes/info/info.html:1
 msgid "Battery"
-msgstr "Аккумулятор"
+msgstr "Batterie"
 
 #: app/device-list/column/device-column-service.js:202
 msgid "Battery Health"
-msgstr "Состояние батареи"
+msgstr "Santé de la Batterie"
 
 #: app/device-list/column/device-column-service.js:226
 msgid "Battery Level"
-msgstr "Уровень зарядки аккумулятора"
+msgstr "Niveau de la Batterie"
 
 #: app/device-list/column/device-column-service.js:210
 msgid "Battery Source"
-msgstr ""
+msgstr "Source de la Batterie"
 
 #: app/device-list/column/device-column-service.js:218
 msgid "Battery Status"
-msgstr "Статус аккумулятора"
+msgstr "Statut de la Batterie"
 
 #: app/device-list/column/device-column-service.js:239
 msgid "Battery Temp"
-msgstr "Температура аккумулятора"
+msgstr "Température de la Batterie"
 
 #: app/components/stf/device/device-info-filter/index.js:89
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 #: app/device-list/column/device-column-service.js:153
 msgid "Browser"
-msgstr "Браузер"
+msgstr "Navigateur"
 
 #: app/components/stf/device/device-info-filter/index.js:12
 #: app/components/stf/device/device-info-filter/index.js:27
 msgid "Busy"
-msgstr "Занято"
+msgstr "Occupé"
 
 #: app/device-list/stats/device-list-stats.html:1
 msgid "Busy Devices"
-msgstr "Используемые устройства"
+msgstr "Terminaux Occupés"
 
 #: app/control-panes/advanced/input/input.html:1
 msgid "Camera"
-msgstr "Камера"
+msgstr "Caméra"
 
 #: app/components/stf/common-ui/modals/add-adb-key-modal/add-adb-key-modal.html:1
 msgid "Cancel"
-msgstr "Отменить"
+msgstr "Annuler"
 
 #: app/components/stf/upload/upload-error-filter.js:6
 msgid "Cannot access specified URL"
-msgstr "Невозможно отрыть заданный URL"
+msgstr "Impossible d’accéder à l'URL spécifiée"
 
 #: app/control-panes/info/info.html:1
 #: app/device-list/column/device-column-service.js:43
 msgid "Carrier"
-msgstr "Оператор"
+msgstr "Opérateur"
 
 #: app/control-panes/dashboard/install/activities/activities.html:1
 msgid "Category"
-msgstr "Категория"
+msgstr "Catégorie"
 
 #: app/components/stf/device/device-info-filter/index.js:67
 msgid "Charging"
-msgstr "Заряжается"
+msgstr "Chargement"
 
 #: auth/ldap/scripts/signin/signin.html:1
 #: auth/mock/scripts/signin/signin.html:1
 msgid "Check errors below"
-msgstr "Проверьте сообщения об ошибках ниже"
+msgstr "Vérifier les erreurs ci-dessous"
 
 #: app/components/stf/common-ui/clear-button/clear-button.html:1
 #: app/control-panes/advanced/run-js/run-js.html:1
 #: app/control-panes/logs/logs.html:1
 msgid "Clear"
-msgstr "Очистить"
+msgstr "Nettoyer"
 
 #: app/control-panes/dashboard/clipboard/clipboard.html:1
 msgid "Clipboard"
-msgstr "Буфер обмена"
+msgstr "Presse-papier"
 
 #: app/components/stf/device/device-info-filter/index.js:46
 msgid "Cold"
-msgstr "Холодно"
+msgstr "Froid"
 
 #: app/components/stf/device/device-info-filter/index.js:21
 #: app/components/stf/device/device-info-filter/index.js:6
 #: app/control-panes/info/info.html:1
 msgid "Connected"
-msgstr "Подключено"
+msgstr "Connecté"
 
 #: app/components/stf/socket/socket-state/socket-state-directive.js:20
 msgid "Connected successfully."
-msgstr "Подключено успешно."
+msgstr "Connexion réussie"
 
 #: app/menu/menu.html:1
 msgid "Control"
-msgstr ""
+msgstr "Contrôle"
 
 #: app/control-panes/resources/resources.html:1
 msgid "Cookies"
-msgstr ""
+msgstr "Cookies"
 
 #: app/control-panes/info/info.html:1
 msgid "Cores"
-msgstr "Ядер"
+msgstr "Coeurs"
 
 #: app/control-panes/info/info.html:1
 #: app/control-panes/performance/cpu/cpu.html:1
 msgid "CPU"
-msgstr "Процессор"
+msgstr "CPU"
 
 #: app/control-panes/device-control/device-control.html:1
 msgid "Current rotation:"
-msgstr ""
+msgstr "Rotation actuelle"
 
 #: app/device-list/device-list.html:1
 msgid "Customize"
-msgstr "Настроить"
+msgstr "Personnaliser"
 
 #: app/control-panes/advanced/input/input.html:12
 msgid "D-pad Center"
-msgstr "Центральная кнопка D-pad"
+msgstr "D-pad Centre"
 
 #: app/control-panes/advanced/input/input.html:20
 msgid "D-pad Down"
-msgstr "Вниз"
+msgstr "D-pad Bas"
 
 #: app/control-panes/advanced/input/input.html:9
 msgid "D-pad Left"
-msgstr "Влево"
+msgstr "D-pad Gauche"
 
 #: app/control-panes/advanced/input/input.html:15
 msgid "D-pad Right"
-msgstr "Вправо"
+msgstr "D-pad Droite"
 
 #: app/control-panes/advanced/input/input.html:4
 msgid "D-pad Up"
-msgstr "Вверх"
+msgstr "D-pad Haut"
 
 #: app/control-panes/control-panes-controller.js:41
 msgid "Dashboard"
-msgstr "Приборная панель"
+msgstr "Tableau"
 
 #: app/control-panes/dashboard/install/activities/activities.html:1
 msgid "Data"
-msgstr "Данные"
+msgstr "Données"
 
 #: app/control-panes/explorer/explorer.html:1
 msgid "Date"
-msgstr ""
+msgstr "Date"
 
 #: app/components/stf/device/device-info-filter/index.js:48
 msgid "Dead"
-msgstr "Не отвечает"
+msgstr "Mort"
 
 #: app/control-panes/resources/resources.html:1
 msgid "Delete"
-msgstr "Удалить"
+msgstr "Supprimer"
 
 #: app/control-panes/info/info.html:1
 msgid "Density"
-msgstr "Плотность"
+msgstr "Densité"
 
 #: app/device-list/device-list.html:1
 msgid "Details"
-msgstr "Детали"
+msgstr "Détails"
 
 #: app/control-panes/dashboard/apps/apps.html:1
 msgid "Developer"
-msgstr "Разработчик"
+msgstr "Développeur"
 
 #: app/components/stf/common-ui/modals/add-adb-key-modal/add-adb-key-modal.html:1
 #: app/components/stf/keys/add-adb-key/add-adb-key.html:1
 #: app/control-panes/advanced/port-forwarding/port-forwarding.html:1
 #: app/control-panes/inspect/inspect.html:1
 msgid "Device"
-msgstr "Устройство"
+msgstr "Terminal"
 
 #: app/device-list/details/device-list-details-directive.js:38
 #: app/device-list/icons/device-list-icons-directive.js:122
 msgid "Device cannot get kicked from the group"
-msgstr "Устройство не может быть исключено из группы"
+msgstr "Le Terminal ne peut pas être exclu du groupe"
 
 #: app/components/stf/device/device-info-filter/index.js:38
 msgid "Device is not present anymore for some reason."
-msgstr "Подключение к устройству отсутствует по неизвестной причине."
+msgstr "Le Terminal n'est plus présent pour certaines raisons"
 
 #: app/components/stf/device/device-info-filter/index.js:39
 msgid "Device is present but offline."
-msgstr "Устройство подключено, но не активно."
+msgstr "Le Terminal est présent mais Hors-Ligne"
 
 #: app/control-panes/info/info.html:1
 msgid "Device Photo"
-msgstr "Фото устройства"
+msgstr "Photos du Terminal"
 
 #: app/control-panes/automation/device-settings/device-settings.html:1
 msgid "Device Settings"
-msgstr "Настройки устройства"
+msgstr "Paramètres du Terminal"
 
 #: app/components/stf/common-ui/modals/fatal-message/fatal-message.html:1
 msgid "Device was disconnected"
-msgstr "Устройство было отключено"
+msgstr "Le Terminal était déconnecté"
 
 #: app/components/stf/device/device-info-filter/index.js:37
 msgid "Device was kicked by automatic timeout."
-msgstr "Устройство было отключено по таймауту."
+msgstr "Le Terminal a été exclu par le Timeout automatique"
 
 #: app/device-list/device-list.html:1 app/menu/menu.html:1
 msgid "Devices"
-msgstr "Устройства"
+msgstr "Terminaux"
 
 #: app/control-panes/automation/device-settings/device-settings.html:1
 msgid "Disable WiFi"
-msgstr "Отключить WiFi"
+msgstr "Désactiver le Wifi"
 
 #: app/components/stf/device/device-info-filter/index.js:68
 msgid "Discharging"
-msgstr "Разряжается"
+msgstr "En Décharge"
 
 #: app/components/stf/common-ui/modals/socket-disconnected/socket-disconnected.html:1
 #: app/components/stf/device/device-info-filter/index.js:20
 #: app/components/stf/device/device-info-filter/index.js:5
 msgid "Disconnected"
-msgstr "Отключено"
+msgstr "Déconnecté"
 
 #: app/control-panes/info/info.html:1
 msgid "Display"
-msgstr "Экран"
+msgstr "écran"
 
 #: app/control-panes/dashboard/install/install.html:7
 msgid "Drop file to upload"
-msgstr "Перетащите файл для загрузки"
+msgstr "Déposer le fichier à téléverser"
 
 #: app/components/stf/device/device-info-filter/index.js:90
 msgid "Dummy"
-msgstr "Макет"
+msgstr "Mannequin"
 
 #: app/settings/notifications/notifications.html:1
 msgid "Enable notifications"
-msgstr "Включить уведомления"
+msgstr "Activer les notifications"
 
 #: app/control-panes/automation/device-settings/device-settings.html:1
 msgid "Enable WiFi"
-msgstr "Включить WiFi"
+msgstr "Activer le Wifi"
 
 #: app/control-panes/info/info.html:1
 msgid "Encrypted"
-msgstr "Зашифровано"
+msgstr "Crypté"
 
 #: app/components/stf/socket/socket-state/socket-state-directive.js:31
 msgid "Error"
-msgstr "Ошибка"
+msgstr "Erreur"
 
 #: app/components/stf/control/control-service.js:129
 msgid "Error while getting data"
-msgstr "Ошибка во время получения данных"
+msgstr "Erreur lors de l'obtention de données"
 
 #: app/components/stf/socket/socket-state/socket-state-directive.js:35
 msgid "Error while reconnecting"
-msgstr "Ошибка переподключения"
+msgstr "Erreur lors de la reconnexion"
 
 #: app/components/stf/device/device-info-filter/index.js:91
 msgid "Ethernet"
-msgstr "Проводная сеть"
+msgstr "Ethernet"
 
 #: app/control-panes/dashboard/shell/shell.html:1
 msgid "Executes remote shell commands"
-msgstr "Выполняет удалённые команды shell"
+msgstr "Exécute des commandes Shell à distance"
 
 #: app/components/stf/upload/upload-error-filter.js:5
 msgid "Failed to download file"
-msgstr "Не удалось загрузить файл"
+msgstr "Impossible de télécharger le fichier"
 
 #: app/control-panes/advanced/input/input.html:1
 msgid "Fast Forward"
-msgstr "Перемотка вперёд"
+msgstr "Avance Rapide"
 
 #: app/control-panes/control-panes-controller.js:26
 msgid "File Explorer"
-msgstr ""
+msgstr "Explorateur de Fichiers"
 
 #: app/components/stf/common-ui/filter-button/filter-button.html:1
 msgid "Filter"
-msgstr "Фильтр"
+msgstr "Filtrer"
 
 #: app/control-panes/info/info.html:1
 msgid "Find Device"
-msgstr "Обнаружить устройство"
+msgstr "Trouver un Terminal"
 
 #: app/components/stf/common-ui/modals/add-adb-key-modal/add-adb-key-modal.html:1
 msgid "Fingerprint"
-msgstr "Отпечаток пальца"
+msgstr "Empreinte Digitale"
 
 #: app/control-panes/info/info.html:1
 msgid "FPS"
-msgstr ""
+msgstr "FPS"
 
 #: app/control-panes/info/info.html:1
 msgid "Frequency"
-msgstr "Частота"
+msgstr "Fréquence"
 
 #: app/components/stf/device/device-info-filter/index.js:69
 msgid "Full"
-msgstr "Полный"
+msgstr "Rempli"
 
 #: app/settings/settings-controller.js:5
 msgid "General"
-msgstr "Общие"
+msgstr "Général"
 
 #: app/components/stf/tokens/generate-access-token/generate-access-token.html:1
 msgid "Generate Access Token"
-msgstr ""
+msgstr "Générer un Jeton d'Accès"
 
 #: app/control-panes/advanced/vnc/vnc.html:1
 msgid "Generate Login for VNC"
-msgstr ""
+msgstr "Générer un identifiant pour VNC"
 
 #: app/components/stf/tokens/generate-access-token/generate-access-token.html:1
 msgid "Generate New Token"
-msgstr ""
+msgstr "Générer un Nouveau Jeton"
 
 #: app/control-panes/logs/logs.html:1
 #: app/control-panes/resources/resources.html:1
 msgid "Get"
-msgstr "Получить"
+msgstr "Obtenir"
 
 #: app/control-panes/dashboard/clipboard/clipboard.html:1
 msgid "Get clipboard contents"
-msgstr "Получить содержимое буфера обмена"
+msgstr "Obtenir le contenu du Presse-Papier"
 
 #: app/control-panes/dashboard/navigation/navigation.html:1
 msgid "Go Back"
-msgstr "Назад"
+msgstr "Retour"
 
 #: app/control-panes/dashboard/navigation/navigation.html:1
 msgid "Go Forward"
-msgstr "Вперёд"
+msgstr "Avancer"
 
 #: app/components/stf/common-ui/modals/fatal-message/fatal-message.html:1
 #: app/control-panes/control-panes-hotkeys-controller.js:89
 msgid "Go to Device List"
-msgstr "Открыть список устройств"
+msgstr "Aller à la Liste des Terminaux"
 
 #: app/components/stf/device/device-info-filter/index.js:47
 msgid "Good"
-msgstr "Хорошее"
+msgstr "Bien"
 
 #: app/control-panes/info/info.html:1
 msgid "Hardware"
-msgstr "Железо"
+msgstr "Matériel"
 
 #: app/control-panes/info/info.html:1
 msgid "Health"
-msgstr "Состояние"
+msgstr "Santé"
 
 #: app/control-panes/info/info.html:1
 msgid "Height"
-msgstr "Высота"
+msgstr "Taille"
 
 #: app/menu/menu.html:1
 msgid "Help"
-msgstr "Помощь"
+msgstr "Aide"
 
 #: app/control-panes/device-control/device-control.html:1
 msgid "Hide Screen"
-msgstr "Спрятать экран"
+msgstr "Cacher l'écran"
 
 #: app/components/stf/device-context-menu/device-context-menu.html:1
 #: app/control-panes/device-control/device-control.html:1
 msgid "Home"
-msgstr "Домашний экран"
+msgstr "Accueil"
 
 #: app/control-panes/advanced/port-forwarding/port-forwarding.html:1
 msgid "Host"
-msgstr ""
+msgstr "Hôte"
 
 #: app/control-panes/advanced/port-forwarding/port-forwarding.html:1
 msgid "Hostname"
-msgstr "Имя хоста"
+msgstr "Nom de l'Hôte"
 
 #: app/control-panes/info/info.html:1
 msgid "ICCID"
-msgstr ""
+msgstr "ICCID"
 
 #: app/control-panes/info/info.html:1
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: app/control-panes/info/info.html:1
 msgid "IMEI"
-msgstr ""
+msgstr "IMEI"
 
 #: auth/ldap/scripts/signin/signin.html:1
 #: auth/mock/scripts/signin/signin.html:1
 msgid "Incorrect login details"
-msgstr "Некорректные логин или пароль"
+msgstr "Informations de connexion incorrectes"
 
 #: app/control-panes/control-panes-controller.js:32
 msgid "Info"
-msgstr "Инфо"
+msgstr "Informations"
 
 #: app/control-panes/inspect/inspect.html:1
 msgid "Inspect Device"
-msgstr "Инспектировать устройство"
+msgstr "Inspecter le Terminal"
 
 #: app/control-panes/inspect/inspect.html:1
 msgid "Inspecting is currently only supported in WebView"
-msgstr "Инспектирование пока поддерживается в WebView"
+msgstr "L'inspection est actuellement pris en charge uniquement dans WebView"
 
 #: app/control-panes/inspect/inspect.html:1
 msgid "Inspector"
-msgstr "Инспекто"
+msgstr "Inspecteur"
 
 #: app/components/stf/install/install-error-filter.js:13
 msgid "Installation canceled by user."
-msgstr "Установка отменена пользователем."
+msgstr "Installation annulée par l'utilisateur"
 
 #: app/components/stf/install/install-error-filter.js:9
 msgid "Installation failed due to an unknown error."
-msgstr "Установка не удалась по неизвестной причине."
+msgstr "Installation échouée due à une erreur inconnue"
 
 #: app/components/stf/install/install-error-filter.js:7
 msgid "Installation succeeded."
-msgstr "Установка прошла успешно."
+msgstr "Installation réussie"
 
 #: app/components/stf/install/install-error-filter.js:11
 msgid "Installation timed out."
-msgstr "Время установки истекло."
+msgstr "L'installation a expirée."
 
 #: app/control-panes/dashboard/install/install.html:7
 msgid "Installing app..."
-msgstr "Устанавливаем приложение..."
+msgstr "En cours d'installation de l'application"
 
 #: app/components/stf/keys/add-adb-key/add-adb-key.html:1
 msgid "Key"
-msgstr "Ключ"
+msgstr "Clef"
 
 #: app/settings/settings-controller.js:10
 msgid "Keys"
-msgstr "Ключи"
+msgstr "Clefs"
 
 #: app/control-panes/device-control/device-control.html:1
 msgid "Landscape"
-msgstr "Ландшафт"
+msgstr "Paysage"
 
 #: app/settings/general/language/language.html:1
 msgid "Language"
-msgstr "Язык"
+msgstr "Langage"
 
 #: app/control-panes/dashboard/install/activities/activities.html:1
 msgid "Launch Activity"
-msgstr "Запустить приложение"
+msgstr "Lancer l'Activité"
 
 #: app/control-panes/dashboard/install/install.html:7
 msgid "Launching activity..."
-msgstr "Приложение запускается..."
+msgstr "En cours de lancement de l'activité ..."
 
 #: app/control-panes/info/info.html:1 app/control-panes/logs/logs.html:1
 msgid "Level"
-msgstr "Уровень"
+msgstr "Niveau"
 
 #: app/settings/general/local/local-settings.html:1
 msgid "Local Settings"
-msgstr "Локальные настройки"
+msgstr "Paramètres locaux"
 
 #: app/device-list/column/device-column-service.js:250
 msgid "Location"
-msgstr "Местоположение"
+msgstr "Localisation"
 
 #: app/control-panes/automation/device-settings/device-settings.html:7
 msgid "Lock Rotation"
-msgstr ""
+msgstr "Bloquer la Rotation"
 
 #: app/control-panes/control-panes-controller.js:50
 msgid "Logs"
-msgstr "Журнал"
+msgstr "Logs"
 
 #: app/control-panes/advanced/maintenance/maintenance.html:1
 msgid "Maintenance"
-msgstr "Обслуживание"
+msgstr "Maintenance"
 
 #: app/settings/keys/access-tokens/access-tokens.html:1
 msgid ""
 "Make sure to copy your access token now. You won't be able to see it again."
-msgstr ""
+msgstr "Assurez-vous de copier votre jeton d'accès maintenant. Vous ne serez pas en mesure de le voir à nouveau."
 
 #: app/control-panes/dashboard/apps/apps.html:1
 msgid "Manage Apps"
-msgstr "Управление приложениями"
+msgstr "Gérer les Applications"
 
 #: app/control-panes/automation/device-settings/device-settings.html:1
 msgid "Manner Mode"
-msgstr ""
+msgstr "Mode Silencieux"
 
 #: app/control-panes/info/info.html:1
 #: app/device-list/column/device-column-service.js:165
 msgid "Manufacturer"
-msgstr "Производитель"
+msgstr "Fabricant"
 
 #: app/control-panes/advanced/input/input.html:1
 msgid "Media"
-msgstr ""
+msgstr "Médias"
 
 #: app/control-panes/info/info.html:1
 msgid "Memory"
-msgstr "Память"
+msgstr "Mémoire"
 
 #: app/control-panes/device-control/device-control.html:1
 msgid "Menu"
-msgstr "Меню"
+msgstr "Menu"
 
 #: app/components/stf/device/device-info-filter/index.js:92
 msgid "Mobile"
-msgstr "Мобильный"
+msgstr "Mobile"
 
 #: app/components/stf/device/device-info-filter/index.js:93
 msgid "Mobile DUN"
-msgstr ""
+msgstr "Réseau Commuté"
 
 #: app/components/stf/device/device-info-filter/index.js:94
 msgid "Mobile High Priority"
-msgstr ""
+msgstr "Mobile en Priorité Haute"
 
 #: app/components/stf/device/device-info-filter/index.js:95
 msgid "Mobile MMS"
-msgstr ""
+msgstr "MMS"
 
 #: app/components/stf/device/device-info-filter/index.js:96
 msgid "Mobile SUPL"
-msgstr ""
+msgstr "SUPL"
 
 #: app/control-panes/info/info.html:1
 #: app/device-list/column/device-column-service.js:31
 msgid "Model"
-msgstr "Модель"
+msgstr "Modèle"
 
 #: app/settings/keys/access-tokens/access-tokens.html:1
 msgid "More about Access Tokens"
-msgstr "Подробнее о ключах доступа"
+msgstr "En savoir plus sur les Jetons d'Accès"
 
 #: app/settings/keys/adb-keys/adb-keys.html:1
 msgid "More about ADB Keys"
-msgstr "Подробнее о ADB ключах"
+msgstr "En savoir plus sur les Clefs ADB"
 
 #: app/control-panes/advanced/input/input.html:1
 msgid "Mute"
-msgstr "Выключить звук"
+msgstr "Muet"
 
 #: app/control-panes/explorer/explorer.html:1
 #: app/control-panes/info/info.html:1
 msgid "Name"
-msgstr "Имя"
+msgstr "Nom"
 
 #: app/menu/menu.html:1
 msgid "Native"
-msgstr "Нативный"
+msgstr "Natif"
 
 #: app/control-panes/dashboard/navigation/navigation.html:1
 msgid "Navigation"
-msgstr "Навигация"
+msgstr "Navigation"
 
 #: app/control-panes/info/info.html:1
 #: app/device-list/column/device-column-service.js:129
 msgid "Network"
-msgstr "Сеть"
+msgstr "Réseau"
 
 #: app/control-panes/advanced/input/input.html:1
 msgid "Next"
-msgstr "Следующий"
+msgstr "Suivant"
 
 #: app/components/stf/device/device-info-filter/index.js:115
 msgid "No"
-msgstr "Нет"
+msgstr "Non"
 
 #: app/settings/keys/access-tokens/access-tokens.html:1
 msgid "No access tokens"
-msgstr "Ключи доступа отсутствуют"
+msgstr "Pas d'accès aux jetons"
 
 #: app/settings/keys/adb-keys/adb-keys.html:1
 msgid "No ADB keys"
-msgstr "ADB ключи отсутствуют"
+msgstr "Pas de clefs ADB"
 
 #: app/components/stf/control/control-service.js:126
 msgid "No clipboard data"
-msgstr "В буфере обмена нет данных"
+msgstr "Pas de données dans le Presse-Papier"
 
 #: app/control-panes/resources/resources.html:1
 msgid "No cookies to show"
-msgstr "Отсутствуют cookies"
+msgstr "Pas de cookies à afficher"
 
 #: app/components/stf/screen/screen.html:1
 msgid "No device screen"
-msgstr ""
+msgstr "Pas d'écran de terminal"
 
 #: app/device-list/empty/device-list-empty.html:1
 msgid "No devices connected"
-msgstr "Нет подключенных устройств"
+msgstr "Pas de terminaux connectés"
 
 #: app/components/stf/common-ui/modals/lightbox-image/lightbox-image.html:1
 msgid "No photo available"
-msgstr "Отсутствует фото"
+msgstr "Pas de photos disponibles"
 
 #: app/control-panes/advanced/port-forwarding/port-forwarding.html:1
 msgid "No Ports Forwarded"
-msgstr "Отсутствуют перенаправленные порты"
+msgstr "Pas de ports redirigés"
 
 #: app/control-panes/screenshots/screenshots.html:5
 msgid "No screenshots taken"
-msgstr "Снимки экрана отсутствуют"
+msgstr "Pas de captures d'écran prises"
 
 #: app/control-panes/automation/device-settings/device-settings.html:1
 msgid "Normal Mode"
-msgstr "Нормальный режим"
+msgstr "Mode Normal"
 
 #: app/components/stf/device/device-info-filter/index.js:70
 msgid "Not Charging"
-msgstr "Не заряжается"
+msgstr "Pas en charge"
 
 #: app/device-list/column/device-column-service.js:256
 msgid "Notes"
-msgstr "Записи"
+msgstr "Notes"
 
 #: app/control-panes/inspect/inspect.html:1
 msgid "Nothing to inspect"
-msgstr ""
+msgstr "Rien à inspecter"
 
 #: app/settings/notifications/notifications.html:1
 msgid "Notifications"
-msgstr "Уведомления"
+msgstr "Notifications"
 
 #: app/control-panes/info/info.html:1
 msgid "Number"
-msgstr "Число"
+msgstr "Nombre"
 
 #: app/components/stf/device/device-info-filter/index.js:22
 #: app/components/stf/device/device-info-filter/index.js:7
 msgid "Offline"
-msgstr ""
+msgstr "Hors Ligne"
 
 #: app/components/stf/common-ui/error-message/error-message.html:1
 #: app/control-panes/dashboard/install/install.html:7
 msgid "Oops!"
-msgstr "Ой"
+msgstr "Oups!"
 
 #: app/control-panes/dashboard/navigation/navigation.html:1
 msgid "Open"
-msgstr "Открыть"
+msgstr "Ouvrir"
 
 #: app/control-panes/info/info.html:1
 msgid "Orientation"
-msgstr "Ориентация"
+msgstr "Orientation"
 
 #: app/control-panes/info/info.html:1
 #: app/device-list/column/device-column-service.js:55
 msgid "OS"
-msgstr ""
+msgstr "OS"
 
 #: app/components/stf/device/device-info-filter/index.js:49
 msgid "Over Voltage"
-msgstr ""
+msgstr "Surtension"
 
 #: app/components/stf/device/device-info-filter/index.js:50
 msgid "Overheat"
-msgstr ""
+msgstr "Surchauffe"
 
 #: app/control-panes/dashboard/install/activities/activities.html:1
 msgid "Package"
-msgstr "Пакет"
+msgstr "Paquet"
 
 #: app/control-panes/advanced/vnc/vnc.html:1
 #: app/control-panes/automation/store-account/store-account.html:1
 msgid "Password"
-msgstr "Пароль"
+msgstr "Mot de Passe"
 
 #: app/control-panes/explorer/explorer.html:1
 msgid "Permissions"
-msgstr ""
+msgstr "Permissions"
 
 #: app/device-list/column/device-column-service.js:184
 msgid "Phone"
-msgstr "Телефон"
+msgstr "Téléphone"
 
 #: app/device-list/column/device-column-service.js:196
 msgid "Phone ICCID"
-msgstr ""
+msgstr "ICCID du Téléphone"
 
 #: app/device-list/column/device-column-service.js:190
 msgid "Phone IMEI"
-msgstr ""
+msgstr "IMEI du Téléphone"
 
 #: app/control-panes/info/info.html:1
 msgid "Physical Device"
-msgstr "Физическое устройство"
+msgstr "Terminal Physique"
 
 #: app/control-panes/logs/logs.html:1
 msgid "PID"
-msgstr ""
+msgstr "PID"
 
 #: app/control-panes/info/info.html:1
 msgid "Place"
-msgstr "Место"
+msgstr "Place"
 
 #: app/control-panes/info/info.html:1
 msgid "Platform"
-msgstr "Платформа"
+msgstr "Plateforme"
 
 #: app/control-panes/advanced/input/input.html:1
 msgid "Play/Pause"
-msgstr "Играть/Пауза"
+msgstr "Jouer/Pause"
 
 #: auth/mock/scripts/signin/signin.html:1
 msgid "Please enter a valid email"
-msgstr "Пожалуйста, введите корректный email"
+msgstr "S'il vous plaît entrez un e-mail valide"
 
 #: auth/mock/scripts/signin/signin.html:1
 msgid "Please enter your email"
-msgstr "Пожалуйста, введите email"
+msgstr "S'il vous plaît entrez vôtre e-mail"
 
 #: auth/ldap/scripts/signin/signin.html:1
 msgid "Please enter your LDAP username"
-msgstr ""
+msgstr "S'il vous plaît entrez vôtre compte LDAP"
 
 #: auth/mock/scripts/signin/signin.html:1
 msgid "Please enter your name"
-msgstr "Пожалуйста введите ваше имя"
+msgstr "S'il vous plaît entrez vôtre nom"
 
 #: auth/ldap/scripts/signin/signin.html:1
 msgid "Please enter your password"
-msgstr "Пожалуйста введите пароль"
+msgstr "S'il vous plaît entrez vôtre mot de passe"
 
 #: app/control-panes/automation/store-account/store-account.html:1
 msgid "Please enter your Store password"
-msgstr ""
+msgstr "S'il vous plaît entrez vôtre mot de passe du Store"
 
 #: app/control-panes/automation/store-account/store-account.html:1
 msgid "Please enter your Store username"
-msgstr ""
+msgstr "S'il vous plaît entrez vôtre identifiant du Store"
 
 #: app/control-panes/advanced/port-forwarding/port-forwarding.html:1
 #: app/control-panes/advanced/vnc/vnc.html:1
 msgid "Port"
-msgstr "Порт"
+msgstr "Port"
 
 #: app/control-panes/advanced/port-forwarding/port-forwarding.html:1
 msgid "Port Forwarding"
-msgstr "Перенаправление портов"
+msgstr "Redirection de Ports"
 
 #: app/control-panes/device-control/device-control.html:1
 msgid "Portrait"
-msgstr "Портетный"
+msgstr "Portrait"
 
 #: app/control-panes/advanced/input/input.html:1
 msgid "Power"
-msgstr "Энергия"
+msgstr "Alimentation"
 
 #: app/control-panes/info/info.html:1
 msgid "Power Source"
-msgstr "Источник энергии"
+msgstr "Source d'Alimentation"
 
 #: app/components/stf/device/device-info-filter/index.js:24
 #: app/components/stf/device/device-info-filter/index.js:9
 msgid "Preparing"
-msgstr "Подготовка"
+msgstr "En Préparation"
 
 #: app/control-panes/control-panes-hotkeys-controller.js:104
 msgid "Press Back button"
-msgstr "Нажмите кнопку Назад"
+msgstr "Appuyer sur le bouton Retour"
 
 #: app/control-panes/control-panes-hotkeys-controller.js:103
 msgid "Press Home button"
-msgstr "Нажмите кнопку Домой"
+msgstr "Appuyer sur le bouton Accueil"
 
 #: app/control-panes/control-panes-hotkeys-controller.js:102
 msgid "Press Menu button"
-msgstr "Нажмите кнопку Меню"
+msgstr "Appuyer sur le bouton Menu"
 
 #: app/control-panes/advanced/input/input.html:1
 msgid "Previous"
-msgstr "Предыдущий"
+msgstr "Précédent"
 
 #: app/control-panes/dashboard/install/install.html:7
 msgid "Processing..."
-msgstr "Обрабатываю..."
+msgstr "En Traitement ...."
 
 #: app/control-panes/info/info.html:1
 #: app/device-list/column/device-column-service.js:37
 msgid "Product"
-msgstr "Продукт"
+msgstr "Produit"
 
 #: app/control-panes/dashboard/install/install.html:7
 msgid "Pushing app..."
-msgstr "Загружаю приложение на устройство..."
+msgstr "En cours de téléversement des Applications ...."
 
 #: app/control-panes/info/info.html:1
 msgid "RAM"
-msgstr ""
+msgstr "RAM"
 
 #: app/components/stf/device/device-info-filter/index.js:10
 #: app/components/stf/device/device-info-filter/index.js:25
 msgid "Ready"
-msgstr "Готово"
+msgstr "Prêt"
 
 #: app/components/stf/socket/socket-state/socket-state-directive.js:39
 msgid "Reconnected successfully."
-msgstr "Переподключился успешно."
+msgstr "Reconnexions réussis"
 
 #: app/components/stf/common-ui/refresh-page/refresh-page.html:1
 msgid "Refresh"
-msgstr "Обновить"
+msgstr "Rafraîchir"
 
 #: app/control-panes/info/info.html:1
 #: app/device-list/column/device-column-service.js:49
 msgid "Released"
-msgstr "Свободно"
+msgstr "Versionée"
 
 #: app/components/stf/common-ui/modals/version-update/version-update.html:1
 #: app/control-panes/dashboard/navigation/navigation.html:1
 msgid "Reload"
-msgstr "Перезагрузить"
+msgstr "Recharger"
 
 #: app/control-panes/dashboard/remote-debug/remote-debug.html:1
 msgid "Remote debug"
-msgstr "Удалённая отладка"
+msgstr "Débogage à distance"
 
 #: app/settings/keys/access-tokens/access-tokens.html:1
 #: app/settings/keys/adb-keys/adb-keys.html:1
 msgid "Remove"
-msgstr "Удалить"
+msgstr "Enlever"
 
 #: app/control-panes/dashboard/navigation/navigation.html:1
 #: app/device-list/device-list.html:1
 msgid "Reset"
-msgstr "Сбросить"
+msgstr "Réinitialiser"
 
 #: app/control-panes/dashboard/navigation/navigation.html:1
 msgid "Reset all browser settings"
-msgstr "Сбросить все настройки браузера"
+msgstr "Réinitialiser tous les paramètres des navigateurs"
 
 #: app/settings/general/local/local-settings.html:1
 msgid "Reset Settings"
-msgstr "Сбросить настройки"
+msgstr "Réinitialiser les paramètres"
 
 #: app/control-panes/advanced/maintenance/maintenance.html:1
 msgid "Restart Device"
-msgstr "Перезагрузить устройство"
+msgstr "Redémarrer le Terminal"
 
 #: app/components/stf/screen/screen.html:1
 msgid "Retrieving the device screen has timed out."
-msgstr "Попытка получить снимок устройства не завершилась вовремя."
+msgstr "La récupération de l'écran de l'appareil a expiré."
 
 #: app/components/stf/screen/screen.html:1
 msgid "Retry"
-msgstr "Повторить"
+msgstr "Recommencer"
 
 #: app/control-panes/advanced/input/input.html:1
 msgid "Rewind"
-msgstr "Перемотать назад"
+msgstr "Rembobiner"
 
 #: app/control-panes/info/info.html:1
 msgid "Roaming"
-msgstr ""
+msgstr "Roaming"
 
 #: app/control-panes/info/info.html:1
 msgid "ROM"
-msgstr ""
+msgstr "ROM"
 
 #: app/components/stf/device-context-menu/device-context-menu.html:1
 #: app/control-panes/control-panes-hotkeys-controller.js:92
 msgid "Rotate Left"
-msgstr "Повернуть влево"
+msgstr "Tourner vers la gauche"
 
 #: app/components/stf/device-context-menu/device-context-menu.html:1
 #: app/control-panes/control-panes-hotkeys-controller.js:93
 msgid "Rotate Right"
-msgstr "Повернуть вправо"
+msgstr "Tourner vers la droite"
 
 #: app/control-panes/advanced/run-js/run-js.html:1
 msgid "Run"
-msgstr "Выполнить"
+msgstr "Exécuter"
 
 #: app/control-panes/advanced/run-js/run-js.html:1
 msgid "Run JavaScript"
-msgstr "Выполнить JavaScript"
+msgstr "Exécuter JavaScript"
 
 #: app/control-panes/dashboard/remote-debug/remote-debug-controller.js:31
 msgid ""
 "Run the following on your command line to debug the device from your Browser"
-msgstr "Выполните эту команду, чтобы отладить устройство из вашего Браузера"
+msgstr "Exécutez la commande suivante sur la ligne de commande pour déboguer le périphérique de votre navigateur"
 
 #: app/control-panes/dashboard/remote-debug/remote-debug-controller.js:28
 msgid ""
 "Run the following on your command line to debug the device from your IDE"
-msgstr "Выполните эту команду, чтобы отладить устройство из вашего IDE"
+msgstr "Exécutez la commande suivante sur la ligne de commande pour déboguer le périphérique de votre IDE"
 
 #: app/components/stf/keys/add-adb-key/add-adb-key.html:1
 msgid "Run this command to copy the key to your clipboard"
-msgstr "Выполните эту команду, чтобы скопировать ключ в буфер обмена"
+msgstr "Exécutez cette commande pour copier la clef de votre presse-papier"
 
 #: app/components/stf/device-context-menu/device-context-menu.html:1
 msgid "Save ScreenShot"
-msgstr "Сохранить скриншот"
+msgstr "Sauver la capture d'écran"
 
 #: app/control-panes/advanced/run-js/run-js.html:1
 msgid "Save..."
-msgstr "Сохранить.."
+msgstr "Sauvegarde ..."
 
 #: app/device-list/column/device-column-service.js:135
 msgid "Screen"
-msgstr "Экран"
+msgstr "écran"
 
 #: app/control-panes/screenshots/screenshots.html:1
 msgid "Screenshot"
-msgstr "Снимок экрана"
+msgstr "Capture d'écran"
 
 #: app/control-panes/control-panes-controller.js:8
 msgid "Screenshots"
-msgstr "Снимки экрана"
+msgstr "Captures d'écran"
 
 #: app/control-panes/info/info.html:1
 msgid "SD Card Mounted"
-msgstr "SD карта подключена"
+msgstr "Carte SD Monté"
 
 #: app/control-panes/info/info.html:1
 #: app/device-list/column/device-column-service.js:171
 msgid "SDK"
-msgstr ""
+msgstr "SDK"
 
 #: app/control-panes/advanced/input/input.html:1
 msgid "Search"
-msgstr "Поиск"
+msgstr "Rechercher"
 
 #: app/control-panes/control-panes-hotkeys-controller.js:91
 msgid "Selects Next IME"
-msgstr ""
+msgstr "Sélectionner le prochain IME"
 
 #: app/control-panes/info/info.html:1
 #: app/device-list/column/device-column-service.js:159
 msgid "Serial"
-msgstr "Серийный номер"
+msgstr "Sériel"
 
 #: app/control-panes/advanced/vnc/vnc.html:1
 msgid "Server"
-msgstr ""
+msgstr "Serveur"
 
 #: auth/ldap/scripts/signin/signin.html:1
 #: auth/mock/scripts/signin/signin.html:1
 msgid "Server error. Check log output."
-msgstr "Ошибка сервера. Проверьте журнал."
+msgstr "Erreur Serveur. Vérifier les logs de sortie."
 
 #: app/control-panes/resources/resources.html:1
 msgid "Set"
-msgstr "Установить"
+msgstr "Paramétrer"
 
 #: app/control-panes/resources/resources.html:1
 msgid "Set Cookie"
-msgstr "Установить cookie"
+msgstr "Paramétrer le Cookie"
 
 #: app/control-panes/dashboard/apps/apps.html:1 app/menu/menu.html:1
 msgid "Settings"
-msgstr "Настройки"
+msgstr "Paramètres"
 
 #: app/control-panes/dashboard/shell/shell.html:1
 msgid "Shell"
-msgstr "Командная оболочка"
+msgstr "Shell"
 
 #: app/control-panes/device-control/device-control.html:1
 msgid "Show Screen"
-msgstr "Показать экран"
+msgstr "Afficher l'écran"
 
 #: app/control-panes/automation/store-account/store-account.html:1
 msgid "Sign In"
-msgstr "Войти"
+msgstr "S'enregistrer"
 
 #: app/control-panes/automation/store-account/store-account.html:1
 msgid "Sign Out"
-msgstr "Выйти"
+msgstr "Se déconnecter"
 
 #: app/control-panes/automation/device-settings/device-settings.html:1
 msgid "Silent Mode"
-msgstr "Тихий режим"
+msgstr "Mode Silencieux"
 
 #: app/control-panes/info/info.html:1
 msgid "SIM"
-msgstr ""
+msgstr "SIM"
 
 #: app/control-panes/explorer/explorer.html:1
 #: app/control-panes/info/info.html:1
 msgid "Size"
-msgstr "Размер"
+msgstr "Taille"
 
 #: app/components/stf/socket/socket-state/socket-state-directive.js:26
 msgid "Socket connection was lost"
-msgstr "Подключение через socket потеряно"
+msgstr "La connexion au Socket a été perdu"
 
 #: app/components/stf/device/device-info-filter/index.js:36
 msgid "Someone stole your device."
-msgstr "Кто-то утащил ваше устройство"
+msgstr "Quelqu'un a volé votre terminal."
 
 #: app/control-panes/advanced/input/input.html:1
 msgid "Special Keys"
-msgstr "Специальные кнопки"
+msgstr "Clefs spéciales"
 
 #: app/control-panes/logs/logs.html:1
 msgid "Start/Stop Logging"
-msgstr "Начать/Остановить журналирование"
+msgstr "Démarrer/Arrêter les logs"
 
 #: app/control-panes/info/info.html:1
 #: app/device-list/column/device-column-service.js:25
 msgid "Status"
-msgstr "Статус"
+msgstr "Statut"
 
 #: app/control-panes/advanced/input/input.html:1
 #: app/control-panes/logs/logs.html:1
 msgid "Stop"
-msgstr "Стоп"
+msgstr "Arrêter"
 
 #: app/components/stf/device-context-menu/device-context-menu.html:1
 #: app/components/stf/device/device-info-filter/index.js:11
 #: app/control-panes/device-control/device-control.html:1
 msgid "Stop Using"
-msgstr "Освободить"
+msgstr "Cesser d'utiliser"
 
 #: app/control-panes/automation/store-account/store-account.html:1
 msgid "Store Account"
-msgstr "Учетная запись магазина приложений"
+msgstr "Compte du Store"
 
 #: app/control-panes/info/info.html:1
 msgid "Sub Type"
-msgstr "Подтип"
+msgstr "Sous Type"
 
 #: app/control-panes/advanced/input/input.html:1
 msgid "Switch Charset"
-msgstr "Переключить кодировку"
+msgstr "Permuter le Charset"
 
 #: app/control-panes/logs/logs.html:1
 msgid "Tag"
-msgstr ""
+msgstr "étiquette"
 
 #: app/control-panes/screenshots/screenshots.html:1
 msgid "Take Pageshot (Needs WebView running)"
-msgstr "Сделать снимок странички (WebView должен быть запущен)"
+msgstr "Prendre une Prise de vue de la page (besoin de WebView)"
 
 #: app/control-panes/screenshots/screenshots.html:1
 msgid "Take Screenshot"
-msgstr "Сделать снимок экрана"
+msgstr "Prendre une Capture d'écran"
 
 #: app/control-panes/info/info.html:1
 msgid "Temperature"
-msgstr "Температура"
+msgstr "Température"
 
 #: app/control-panes/logs/logs.html:1
 msgid "Text"
-msgstr "Текст"
+msgstr "Texte"
 
 #: app/components/stf/screen/screen.html:1
 msgid "The current view is marked secure and cannot be viewed remotely."
-msgstr "Текущий просмотр отмечен как безопасный и к нему нельзя получить доступ удалённо."
+msgstr "La vue actuelle est marqué sécurisé et ne peut être consulté à distance."
 
 #: app/control-panes/advanced/maintenance/maintenance-controller.js:11
 msgid "The device will be unavailable for a moment."
-msgstr "Устройство будет временно недоступно."
+msgstr "Le terminal ne sera pas disponible pour un moment"
 
 #: app/components/stf/install/install-error-filter.js:34
 msgid "The existing package could not be deleted."
-msgstr "Существующий пакет не может быть удалён."
+msgstr "Le package existant ne peut pas être supprimé."
 
 #: app/components/stf/install/install-error-filter.js:58
 msgid ""
 "The new package couldn't be installed because the verification did not "
 "succeed."
-msgstr "Пакет не может быть установлен из-за ошибки верификации."
+msgstr "Le nouveau paquet n'a pas pu être installé car la vérification n'a pas réussi."
 
 #: app/components/stf/install/install-error-filter.js:56
 msgid ""
 "The new package couldn't be installed because the verification timed out."
-msgstr "Пакет не может быть установлен из-за превышения времени верификации."
+msgstr "Le nouveau paquet n'a pas pu être installé car la vérification a expiré."
 
 #: app/components/stf/install/install-error-filter.js:54
 msgid ""
 "The new package couldn't be installed in the specified install location "
 "because the media is not available."
-msgstr "Пакет не может быть установлен в указанное место поскольку оно недоступно."
+msgstr "Le nouveau paquet n'a pas pu être installé à l'emplacement spécifié pour l'installation parce que les médias ne sont pas disponibles."
 
 #: app/components/stf/install/install-error-filter.js:52
 msgid ""
 "The new package couldn't be installed in the specified install location."
-msgstr "Пакет не может быть установлен в указанное место."
+msgstr "Le nouveau paquet n'a pas pu être installé à l'emplacement spécifié pour installation."
 
 #: app/components/stf/install/install-error-filter.js:40
 msgid ""
 "The new package failed because it contains a content provider with thesame "
 "authority as a provider already installed in the system."
-msgstr ""
+msgstr "Le nouveau paquet a échoué car it contient un fournisseur de contenu avec la même autorité en tant que fournisseur déjà installé dans le système."
 
 #: app/components/stf/install/install-error-filter.js:44
 msgid ""
 "The new package failed because it has specified that it is a test-only "
 "package and the caller has not supplied the INSTALL_ALLOW_TEST flag."
-msgstr ""
+msgstr "Le nouveau paquet a échoué car il a précisé qu'il est un paquet de test uniquement et l'appelant n'a pas fourni le drapeau INSTALL_ALLOW_TEST."
 
 #: app/components/stf/install/install-error-filter.js:42
 msgid ""
 "The new package failed because the current SDK version is newer than that "
 "required by the package."
-msgstr ""
+msgstr "Le nouveau paquet a échoué parce que la version actuelle du SDK est plus récente que celle requise par le paquet."
 
 #: app/components/stf/install/install-error-filter.js:38
 msgid ""
 "The new package failed because the current SDK version is older than that "
 "required by the package."
-msgstr ""
+msgstr "Le nouveau paquet a échoué parce que la version actuelle du SDK est plus ancienne que celle requise par le paquet."
 
 #: app/components/stf/install/install-error-filter.js:36
 msgid ""
 "The new package failed while optimizing and validating its dex files, either"
 " because there was not enough storage or the validation failed."
-msgstr ""
+msgstr "Le nouveau paquet a échoué lors de l'optimisation et l'évaluation de ses fichiers dex, soit parce qu'il n'y avait pas assez de stockage ou la validation a échoué."
 
 #: app/components/stf/install/install-error-filter.js:64
 msgid ""
 "The new package has an older version code than the currently installed "
 "package."
-msgstr "Новый пакет имеет более старую версию, чем уже установленный."
+msgstr "Le nouveau paquet a un code de version plus ancien que le paquet actuellement installé."
 
 #: app/components/stf/install/install-error-filter.js:62
 msgid "The new package is assigned a different UID than it previously held."
-msgstr ""
+msgstr "Le nouveau paquet est affecté un ID différent qu'il détenait auparavant."
 
 #: app/components/stf/install/install-error-filter.js:48
 msgid "The new package uses a feature that is not available."
-msgstr ""
+msgstr "Le nouveau paquet utilise une fonctionnalité qui n'est pas disponible."
 
 #: app/components/stf/install/install-error-filter.js:32
 msgid "The new package uses a shared library that is not available."
-msgstr ""
+msgstr "Le nouveau paquet utilise une bibliothèque partagée qui n'est pas disponible."
 
 #: app/components/stf/install/install-error-filter.js:20
 msgid "The package archive file is invalid."
-msgstr "Файл архива программы повреждён."
+msgstr "Le fichier d'archive de paquet est invalide."
 
 #: app/components/stf/install/install-error-filter.js:46
 msgid ""
 "The package being installed contains native code, but none that is "
 "compatible with the device's CPU_ABI."
-msgstr ""
+msgstr "Le package installé contient du code natif, mais aucun qui soit compatible avec le CPU_ABI du terminal."
 
 #: app/components/stf/install/install-error-filter.js:60
 msgid "The package changed from what the calling program expected."
-msgstr ""
+msgstr "Le paquet a changé de ce que le programme appelant avait prévu."
 
 #: app/components/stf/install/install-error-filter.js:18
 msgid "The package is already installed."
-msgstr "Пакет уже установлен."
+msgstr "Le paquet est déjà installé"
 
 #: app/components/stf/install/install-error-filter.js:24
 msgid ""
 "The package manager service found that the device didn't have enough storage"
 " space to install the app."
-msgstr ""
+msgstr "Le service de gestionnaire de paquets a constaté que le terminal ne dispose pas de suffisamment d'espace de stockage pour installer l'application."
 
 #: app/components/stf/install/install-error-filter.js:84
 msgid ""
 "The parser did not find any actionable tags (instrumentation or application)"
 " in the manifest."
-msgstr ""
+msgstr "L'analyseur n'a pas trouvé toutes les tags actionnables (de l'instrumentation et des applications) dans le manifest."
 
 #: app/components/stf/install/install-error-filter.js:72
 msgid "The parser did not find any certificates in the .apk."
-msgstr ""
+msgstr "L'analyseur n'a pas trouvé de certificat dans le fichier .apk."
 
 #: app/components/stf/install/install-error-filter.js:78
 msgid "The parser encountered a bad or missing package name in the manifest."
-msgstr ""
+msgstr "L'analyseur a rencontré un mauvais ou manquant nom du paquet dans le manifest."
 
 #: app/components/stf/install/install-error-filter.js:80
 msgid "The parser encountered a bad shared user id name in the manifest."
-msgstr ""
+msgstr "L'analyseur a rencontré un mauvais nom d'utilisateur partagé dans le manifest."
 
 #: app/components/stf/install/install-error-filter.js:76
 msgid ""
 "The parser encountered a CertificateEncodingException in one of the files in"
 " the .apk."
-msgstr ""
+msgstr "L'analyseur a rencontré une CertificateEncodingException dans l'un des fichiers de l'apk."
 
 #: app/components/stf/install/install-error-filter.js:70
 msgid "The parser encountered an unexpected exception."
-msgstr "Возникла непредвиденная исключительная ситуация во время работы синтаксического анализатора."
+msgstr "L'analyseur a rencontré une exception inattendue."
 
 #: app/components/stf/install/install-error-filter.js:82
 msgid "The parser encountered some structural problem in the manifest."
-msgstr "Синтаксический анализатор обнаружил структурные проблемы в манифесте."
+msgstr "L'analyseur a rencontré un problème structurel dans le manifest."
 
 #: app/components/stf/install/install-error-filter.js:74
 msgid "The parser found inconsistent certificates on the files in the .apk."
-msgstr "Синтаксический анализатор обнаружил несовместимый сертификат в .apk файле"
+msgstr "L'analyseur a trouvé des certificats contradictoires sur les fichiers de l'apk."
 
 #: app/components/stf/install/install-error-filter.js:66
 msgid ""
 "The parser was given a path that is not a file, or does not end with the "
 "expected '.apk' extension."
-msgstr "Синтаксическому анализатору был передан не путь к файлу, или имя файла не заканчивается на '.apk'."
+msgstr "L'analyseur a donné un chemin qui n'est pas un fichier, ou ne se termine pas avec le \".apk\" extension attendue."
 
 #: app/components/stf/install/install-error-filter.js:68
 msgid "The parser was unable to retrieve the AndroidManifest.xml file."
-msgstr "Синтаксический анализатор не смог получить файл AndroidManifest.xml"
+msgstr "L'analyseur n'a pas pu extraire le fichier AndroidManifest.xml."
 
 #: app/components/stf/install/install-error-filter.js:28
 msgid "The requested shared user does not exist."
-msgstr "Требуемый общий пользователь не существует."
+msgstr "L'utilisateur requêté partagé n'existe pas."
 
 #: app/components/stf/install/install-error-filter.js:90
 msgid ""
 "The system failed to install the package because its packaged native code "
 "did not match any of the ABIs supported by the system."
-msgstr ""
+msgstr "Le système n'a pas réussi à installer le paquet parce que son code natif emballé ne correspond à aucune ABI supporté par le système."
 
 #: app/components/stf/install/install-error-filter.js:86
 msgid "The system failed to install the package because of system issues."
-msgstr "Не удалось установить пакет по причине системной ошибки"
+msgstr "Le système n'a pas réussi à installer le paquet en raison de problèmes du système."
 
 #: app/components/stf/install/install-error-filter.js:88
 msgid ""
 "The system failed to install the package because the user is restricted from"
 " installing apps."
-msgstr "Не удалось установить пакет, так как данному пользователю запрещена установка приложений."
+msgstr "Le système n'a pas réussi à installer le paquet parce que l'utilisateur est limité à partir de l'installation d'applications."
 
 #: app/components/stf/install/install-error-filter.js:22
 msgid "The URI passed in is invalid."
-msgstr "Невалидный URI."
+msgstr "L'URI transmise n'est pas invalide."
 
 #: app/control-panes/logs/logs.html:1
 msgid "TID"
@@ -1374,87 +1374,87 @@ msgstr "TID"
 
 #: app/control-panes/logs/logs.html:1
 msgid "Time"
-msgstr "Время"
+msgstr "Temps"
 
 #: app/components/stf/keys/add-adb-key/add-adb-key.html:1
 msgid "Tip:"
-msgstr "Подсказка:"
+msgstr "Astuce:"
 
 #: app/components/stf/tokens/generate-access-token/generate-access-token.html:1
 msgid "Title"
-msgstr ""
+msgstr "Titre"
 
 #: app/control-panes/control-panes-hotkeys-controller.js:107
 msgid "Toggle Web/Native"
-msgstr "Переключить Web/Native"
+msgstr "Basculer de Web/Natif"
 
 #: app/device-list/stats/device-list-stats.html:1
 msgid "Total Devices"
-msgstr "Всего устройств"
+msgstr "Nombre total de Terminaux"
 
 #: app/components/stf/common-ui/modals/fatal-message/fatal-message.html:1
 #: app/control-panes/resources/resources.html:1
 msgid "translate"
-msgstr ""
+msgstr "Traduire"
 
 #: app/components/stf/common-ui/modals/fatal-message/fatal-message.html:1
 #: app/components/stf/common-ui/modals/socket-disconnected/socket-disconnected.html:1
 msgid "Try to reconnect"
-msgstr "Попробовать подключиться"
+msgstr "Essayer de se reconnecter"
 
 #: app/control-panes/info/info.html:1
 msgid "Type"
-msgstr "Тип"
+msgstr "Type"
 
 #: app/components/stf/device/device-info-filter/index.js:23
 #: app/components/stf/device/device-info-filter/index.js:8
 msgid "Unauthorized"
-msgstr "Неавторизован"
+msgstr "Non Autorisé"
 
 #: app/control-panes/dashboard/install/install.html:7
 msgid "Uninstall"
-msgstr "Удалить"
+msgstr "Désinstaller"
 
 #: app/components/stf/device/device-info-filter/index.js:14
 #: app/components/stf/device/device-info-filter/index.js:29
 msgid "Unknown"
-msgstr "Неизвестный"
+msgstr "Inconnu"
 
 #: app/components/stf/device/device-info-filter/index.js:40
 msgid "Unknown reason."
-msgstr "Неизвестная причина."
+msgstr "Raison inconnue."
 
 #: app/control-panes/automation/device-settings/device-settings.html:6
 msgid "Unlock Rotation"
-msgstr ""
+msgstr "Débloquer la Rotation"
 
 #: app/components/stf/device/device-info-filter/index.js:51
 msgid "Unspecified Failure"
-msgstr ""
+msgstr "Défaillance non spécifiée"
 
 #: app/components/stf/upload/upload-error-filter.js:7
 msgid "Upload failed"
-msgstr "Загрузка завершилась неудачно"
+msgstr "Téléversement raté"
 
 #: app/control-panes/dashboard/install/install.html:5
 msgid "Upload From Link"
-msgstr "Загрузить по ссылке"
+msgstr "Téléverser depuis le Lien"
 
 #: app/components/stf/upload/upload-error-filter.js:8
 msgid "Upload unknown error"
-msgstr "Неизвестная ошибка загрузки"
+msgstr "Erreur inconnue lors du Téléversement"
 
 #: app/components/stf/upload/upload-error-filter.js:4
 msgid "Uploaded file is not valid"
-msgstr "Загруженный файл не валиден"
+msgstr "Le fichier téléversé n'est pas valide"
 
 #: app/control-panes/dashboard/install/install.html:7
 msgid "Uploading..."
-msgstr "Загружается..."
+msgstr "En cours de téléversement ..."
 
 #: app/device-list/stats/device-list-stats.html:1
 msgid "Usable Devices"
-msgstr "Доступные устройства"
+msgstr "Terminaux utilisables"
 
 #: app/components/stf/device/device-info-filter/index.js:59
 msgid "USB"
@@ -1462,86 +1462,86 @@ msgstr "USB"
 
 #: app/control-panes/advanced/usb/usb.html:1
 msgid "Usb speed"
-msgstr "Скорость USB"
+msgstr "Vitesse USB"
 
 #: app/components/stf/device/device-info-filter/index.js:13
 msgid "Use"
-msgstr "Использовать"
+msgstr "Utiliser"
 
 #: app/device-list/column/device-column-service.js:262
 msgid "User"
-msgstr "Пользователь"
+msgstr "Utilisateur"
 
 #: app/control-panes/automation/store-account/store-account.html:1
 msgid "Username"
-msgstr "Имя пользователя"
+msgstr "Nom de l'utilisateur"
 
 #: app/components/stf/device/device-info-filter/index.js:26
 msgid "Using"
-msgstr "Используется"
+msgstr "En Utilisation"
 
 #: app/control-panes/info/info.html:1
 msgid "Using Fallback"
-msgstr ""
+msgstr "Reprise de l'Utilisation"
 
 #: app/control-panes/info/info.html:1
 msgid "Version"
-msgstr "Версия"
+msgstr "Version"
 
 #: app/components/stf/common-ui/modals/version-update/version-update.html:1
 msgid "Version Update"
-msgstr "Обновление версии"
+msgstr "Version de la mise à jour"
 
 #: app/control-panes/automation/device-settings/device-settings.html:1
 msgid "Vibrate Mode"
-msgstr "Режим вибрации"
+msgstr "Mode Vibration"
 
 #: app/control-panes/advanced/vnc/vnc.html:1
 msgid "VNC"
-msgstr ""
+msgstr "VNC"
 
 #: app/control-panes/info/info.html:1
 msgid "Voltage"
-msgstr "Напряжение"
+msgstr "Tension"
 
 #: app/control-panes/advanced/input/input.html:1
 msgid "Volume"
-msgstr "Звук"
+msgstr "Volume"
 
 #: app/control-panes/advanced/input/input.html:1
 msgid "Volume Down"
-msgstr "Тише"
+msgstr "Baisser le Volume"
 
 #: app/control-panes/advanced/input/input.html:1
 msgid "Volume Up"
-msgstr "Громче"
+msgstr "Augmenter le Volume"
 
 #: app/settings/keys/access-tokens/access-tokens.html:1
 msgid "Warning:"
-msgstr ""
+msgstr "Avertissement:"
 
 #: app/menu/menu.html:1
 msgid "Web"
-msgstr "Интернет"
+msgstr "Web"
 
 #: app/control-panes/info/info.html:1
 msgid "Width"
-msgstr "Ширина"
+msgstr "Largeur"
 
 #: app/components/stf/device/device-info-filter/index.js:105
 #: app/components/stf/device/device-info-filter/index.js:97
 #: app/control-panes/automation/device-settings/device-settings.html:1
 #: app/control-panes/dashboard/apps/apps.html:1
 msgid "WiFi"
-msgstr "WiFi"
+msgstr "Wifi"
 
 #: app/components/stf/device/device-info-filter/index.js:98
 msgid "WiMAX"
-msgstr "WiMAX"
+msgstr "WiMax"
 
 #: app/components/stf/device/device-info-filter/index.js:60
 msgid "Wireless"
-msgstr "Беспроводное"
+msgstr "Sans Fil"
 
 #: app/control-panes/info/info.html:1
 msgid "X DPI"
@@ -1553,8 +1553,8 @@ msgstr "Y DPI"
 
 #: app/components/stf/device/device-info-filter/index.js:113
 msgid "Yes"
-msgstr "Да"
+msgstr "Oui"
 
 #: app/components/stf/device/device-info-filter/index.js:35
 msgid "You (or someone else) kicked the device."
-msgstr "Вы (или кто-то еще) отключили устройство."
+msgstr "Vous (ou quelqu'un d'autre) a exclu le Terminal."

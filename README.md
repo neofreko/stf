@@ -1,9 +1,10 @@
 <img src="res/common/logo/exports/STF-128.png?raw=true" style="width:100px;height:100px;" alt="STF">
 
 [![Build Status](https://travis-ci.org/openstf/stf.svg?branch=master)](https://travis-ci.org/openstf/stf)
-[![Docker Repository on Quay.io](https://quay.io/repository/openstf/stf/status "Docker Repository on Quay.io")](https://quay.io/repository/openstf/stf)
+[![Docker Pulls](https://img.shields.io/docker/pulls/openstf/stf.svg)](https://hub.docker.com/r/openstf/stf/)
 [![NPM version](https://img.shields.io/npm/v/stf.svg)](https://www.npmjs.com/package/stf)
 
+[Help keep OpenSTF up to date and in active development!](https://salt.bountysource.com/teams/openstf)
 
 **STF** (or Smartphone Test Farm) is a web application for debugging smartphones, smartwatches and other gadgets remotely, from the comfort of your browser.
 
@@ -13,11 +14,16 @@ It is currently being used at [CyberAgent](https://www.cyberagent.co.jp/en/) to 
 
 ![Super short screencast showing usage](doc/7s_usage.gif?raw=true)
 
+## Announcements
+
+* Thanks to @qband, @juliusspencer and Anonymous donors, we've been able to confirm [Android N Preview 2 support!](https://github.com/openstf/stf/issues/279)
+* We've added a [donation transparency report](DONATION-TRANSPARENCY.md) for all to see.
+
 ## Features
 
 * OS support
   - Android
-    * Supports versions 2.3.3 (SDK level 10) to 6.0 (SDK level 23)
+    * Supports versions 2.3.3 (SDK level 10) to Android N Preview 2 (which still shows up as SDK level 23)
     * Supports Wear 5.1 (but not 5.0 due to missing permissions)
     * Supports Fire OS, CyanogenMod, and other heavily Android based distributions
     * `root` is **not** required for any current functionality
@@ -391,6 +397,11 @@ It will do the following:
 4. Pull from Transifex all `po` translations.
 5. Compile all `po` files to `json`.
 
+Then in order to add it officially (only needs to be done once):
+
+1. Add the language to `res/common/lang/langs.json`.
+2. Pull the specific language `tx pull -l <lang>`.
+3. Run `gulp translate`.
 
 ## Testing
 
