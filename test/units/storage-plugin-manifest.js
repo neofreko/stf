@@ -40,14 +40,13 @@ describe('storage', function() {
   describe('plugin', function() {
     it('manifest can read apk', async function() {
         const apkFilePath = await getApkFile()
-        console.log(apkFilePath)
         const apkManifest = await manifestOf({path: apkFilePath})
+        console.log(apkManifest)
         expect(apkManifest).to.have.property("versionName", "2.4.3")
     })
 
-    it.only('manifest can read ipa', async function() {
+    it('manifest can read ipa', async function() {
         const ipaFilePath = await getIpaFile()
-        console.log(ipaFilePath)
         const ipaManifest = await manifestOf({path: ipaFilePath})
         expect(ipaManifest).to.have.property("CFBundleIdentifier", "com.petri.calculator.calculator")
     })
