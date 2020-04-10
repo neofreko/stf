@@ -41,7 +41,6 @@ describe('storage', function() {
     it('manifest can read apk', async function() {
         const apkFilePath = await getApkFile()
         const apkManifest = await manifestOf({path: apkFilePath})
-        console.log(apkManifest)
         expect(apkManifest).to.have.property("versionName", "2.4.3")
     })
 
