@@ -31,7 +31,7 @@ RUN set -x && \
     npm install --loglevel http && \
     curl -sf https://gobinaries.com/tj/node-prune | sh
 
-wget --progress=dot:mega \
+RUN wget --progress=dot:mega \
 	https://github.com/google/bundletool/releases/download/1.2.0/bundletool-all-1.2.0.jar \
 	-O /tmp/bundletool.jar
 
@@ -109,6 +109,7 @@ COPY ./webpackserver.config.js /app/
 
 #USER root
 #RUN apt-get -y --no-install-recommends install ncdu
+COPY bin /app/bin
 
 # Add stf executable dir into $PATH
 ENV PATH /app/bin:$PATH
